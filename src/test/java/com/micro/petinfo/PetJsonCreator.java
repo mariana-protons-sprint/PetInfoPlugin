@@ -209,6 +209,8 @@ public class PetJsonCreator
 	private static final String SMOLCANO_EXAMINE = "Not so threatening at this size.";
 	private static final String SNAKELING_INFO = "is dropped by Zulrah, at a rate of 1/4000.";
 	private static final String SNAKELING_EXAMINE = "Spawn of Zulrah.";
+	private static final String SOUP_INFO = "can be obtained while training the Sailing skill.";
+	private static final String SOUP_EXAMINE = "A connoisseur of all liquid based foods.";
 	private static final String SRARACHA_INFO = "is dropped by Sarachnis, at a rate of 1/3000.";
 	private static final String SRARACHA_EXAMINE = "Good thing there's no such thing as Sarachnophobia.";
 	private static final String TANGLEROOT_INFO = "is obtained while training Farming.";
